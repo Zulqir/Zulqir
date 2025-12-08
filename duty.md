@@ -1,9 +1,11 @@
 **Owner**
+- .gg/zayrix > Zayrix RBW
 - .gg/vyronrbw > Vyron Ranked-Bedwars
 
 **Developer**
 - .gg/hrbw > Hestia Ranked Bedwars
 - .gg/jxrbw > Jarlex RBW > Private RBW
+- .gg/zayrix > Zayrix RBW
 
 **Screensharer**
 - .gg/roserbw > RoseRBW
