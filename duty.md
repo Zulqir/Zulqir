@@ -1,15 +1,11 @@
 **Owner**
-- .gg/zayrix > Zayrix RBW
-- .gg/vyronrbw > Vyron Ranked-Bedwars
+
 
 **Developer**
-- .gg/hrbw > Hestia Ranked Bedwars
 - .gg/jxrbw > Jarlex RBW > Private RBW
-- .gg/zayrix > Zayrix RBW
 
 **Screensharer**
 - .gg/roserbw > RoseRBW
-- .gg/lrbw > LunaRBW ( SS Manager )
 
 **Staff**
 - .gg/hrbw > Hestia Ranked Bedwars ( Staff & Helper )
@@ -23,5 +19,10 @@
 - .gg/mtt > Minemen Tier Tests ( Developer & Staff > Helper)
 - .gg/ctts > Competitive Tier Tests ( Developer )
 - .gg/att > Aurora Tier Tests ( Staff & Sr.Mod )
+- .gg/lrbw > LunaRBW ( SS Manager )
 - .gg/asrbw > Asian Ranked Bedwars ( Staff & Admin )
+- .gg/orbw > Oynx Ranked BedWars ( Developer )
+- .gg/hrbw > Hestia Ranked Bedwars ( Developer )
+- .gg/zayrix > Zayrix RBW ( Developer ) | Deleted RBW
+- .gg/vyronrbw > Vyron Ranked-Bedwars ( Owner & Dev )
 ---
