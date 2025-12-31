@@ -3,12 +3,13 @@
 
 **Developer**
 - .gg/jxrbw > Jarlex RBW > Private RBW
+- .gg/asrbw > Asian Ranked Bedwars ( Developer )
 
 **Screensharer**
-- .gg/roserbw > RoseRBW
+0--0
 
 **Staff**
-- .gg/hrbw > Hestia Ranked Bedwars ( Staff & Helper )
+- .gg/asrbw > Asian Ranked Bedwars ( Staff & Admin )
 
 **Retired Staff**
 - .gg/asrbw > Asian Ranked Bedwars ( Developer )
@@ -25,4 +26,5 @@
 - .gg/hrbw > Hestia Ranked Bedwars ( Developer )
 - .gg/zayrix > Zayrix RBW ( Developer ) | Deleted RBW
 - .gg/vyronrbw > Vyron Ranked-Bedwars ( Owner & Dev )
+- .gg/hrbw > Hestia Ranked Bedwars ( Staff & Helper )
 ---
